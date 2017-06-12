@@ -1,0 +1,16 @@
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Banka.exe.config
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Banka.exe
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Banka.pdb
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Common.dll
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Common.pdb
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\obj\Debug\Banka.exe
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\Banka\obj\Debug\Banka.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\obj\Debug\Banka.exe
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\obj\Debug\Banka.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Banka.exe.config
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Banka.exe
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Banka.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Common.dll
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\Banka\bin\Debug\Common.pdb

@@ -1,0 +1,16 @@
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\CentralnaBanka.exe.config
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\CentralnaBanka.exe
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\CentralnaBanka.pdb
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\obj\Debug\CentralnaBanka.csprojResolveAssemblyReference.cache
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\obj\Debug\CentralnaBanka.exe
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\obj\Debug\CentralnaBanka.pdb
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\Common.dll
+C:\Users\Nebojsa\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\Common.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\CentralnaBanka.exe.config
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\CentralnaBanka.exe
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\CentralnaBanka.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\Common.dll
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\bin\Debug\Common.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\obj\Debug\CentralnaBanka.csprojResolveAssemblyReference.cache
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\obj\Debug\CentralnaBanka.exe
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\CentralnaBanka\obj\Debug\CentralnaBanka.pdb

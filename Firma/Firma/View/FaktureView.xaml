@@ -1,0 +1,18 @@
+﻿<Window x:Class="Firma.View.FaktureView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FaktureView" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid  CanUserAddRows="False" Grid.Row="0" ItemsSource="{Binding Fakture}" SelectedItem="{Binding SelektovanaFaktura}">
+            
+        </DataGrid>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Content="Plati" Command="{Binding PlatiCommand}"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

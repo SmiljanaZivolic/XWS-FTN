@@ -1,0 +1,15 @@
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\bin\Debug\BankaUI.exe.config
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\bin\Debug\BankaUI.exe
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\bin\Debug\BankaUI.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\bin\Debug\Common.dll
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\bin\Debug\Common.pdb
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\BankaUI.csprojResolveAssemblyReference.cache
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\MainWindow.baml
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\MainWindow.g.cs
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\App.g.cs
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\BankaUI_MarkupCompile.cache
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\BankaUI.g.resources
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\BankaUI.Properties.Resources.resources
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\BankaUI.csproj.GenerateResource.Cache
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\BankaUI.exe
+C:\Users\Notorious91\Desktop\XWS\XWS\Firma\BankaUI\obj\Debug\BankaUI.pdb

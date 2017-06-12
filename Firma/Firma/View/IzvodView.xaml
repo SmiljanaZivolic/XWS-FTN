@@ -1,0 +1,13 @@
+﻿<Window x:Class="Firma.View.IzvodView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IzvodView" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid  CanUserAddRows="False" Grid.Row="0" ItemsSource="{Binding Izvodi}">
+        </DataGrid>
+    </Grid>
+</Window>
